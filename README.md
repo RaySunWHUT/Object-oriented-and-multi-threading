@@ -24,8 +24,4 @@ This is the source code of the course of "Object-oriented and multi-threading" o
 
 4. server端监听。
 
-<<<<<<< HEAD
    ![image](https://github.com/RaySunWHUT/Object-oriented-and-multi-threading/blob/master/assets/server_listened.png)
-=======
-   ![image](https://github.com/RaySunWHUT/Object-oriented-and-multi-threading/blob/master/assets/server_listened.png)
->>>>>>> 080c5ae52c3032f73e327fb071cc0d0173b3b149
