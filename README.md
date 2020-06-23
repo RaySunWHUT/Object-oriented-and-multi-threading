@@ -12,15 +12,16 @@ This is the source code of the course of "Object-oriented and multi-threading" o
 系统功能展示：
 
 1. 先启动服务器端server(服务器端启动后会默认添加三个不同角色的用户)。
-   ![image](https://github.com/RaySunWHUT/Object-oriented-and-multi-threading/tree/master/assets/server.png)
+
+   ![image](https://github.com/RaySunWHUT/Object-oriented-and-multi-threading/blob/master/assets/server.png)
 2. 启动客户端client。
 
-   ![image](https://github.com/RaySunWHUT/Object-oriented-and-multi-threading/tree/master/assets/client.png)
+   ![image](https://github.com/RaySunWHUT/Object-oriented-and-multi-threading/blob/master/assets/client.png)
 
 3. client端登录。
 
-   ![image](https://github.com/RaySunWHUT/Object-oriented-and-multi-threading/tree/master/assets/client_logined.png)
+   ![image](https://github.com/RaySunWHUT/Object-oriented-and-multi-threading/blob/master/assets/client_logined.png)
 
 4. server端监听。
 
-   ![image](https://github.com/RaySunWHUT/Object-oriented-and-multi-threading/tree/master/assets/server_listened.png)
+   ![image](https://github.com/RaySunWHUT/Object-oriented-and-multi-threading/blob/master/assets/server_listened.png)
